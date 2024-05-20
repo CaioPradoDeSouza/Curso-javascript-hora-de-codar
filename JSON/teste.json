@@ -1,0 +1,12 @@
+
+[{
+    "nome": "caio",
+    "carro": "fusca",
+    "esta_trabalhando": true,
+    "hobbies": ["andar de moto", "treinar calistenia", "andar de skate"],
+    "detalhes_profissao": {
+        "profissao": "motoboy"
+    }
+    
+}
+]
